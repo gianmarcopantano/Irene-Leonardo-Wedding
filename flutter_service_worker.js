@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "577b108a01c1f0f1a2d6f3ff6d90caeb",
+const RESOURCES = {"flutter_bootstrap.js": "c2887ea6af1861578f8724e8e26eee4f",
 "version.json": "3d0a8b3e454aa8006e8b32fefcd8e5e3",
 "index.html": "364001462c0f2bebdac467c0f218761e",
 "/": "364001462c0f2bebdac467c0f218761e",
-"main.dart.js": "b5659138de920a2dd5a1f7052f7b4fd1",
+"main.dart.js": "bfc00f89cc0ffa87bc9e450db79ff51a",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -25,7 +25,7 @@ const RESOURCES = {"flutter_bootstrap.js": "577b108a01c1f0f1a2d6f3ff6d90caeb",
 "assets/packages/font_awesome_flutter/lib/fonts/Font%2520Awesome%25207%2520Brands-Regular-400.otf": "00f63634abc6bb4e0a8ad6fc1fccf332",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "422092916a641fa97c921839b65d3ce4",
-"assets/fonts/MaterialIcons-Regular.otf": "c0ad29d56cfe3890223c02da3c6e0448",
+"assets/fonts/MaterialIcons-Regular.otf": "76a52eb42ae55e568299016bc372785e",
 "assets/assets/images/FotoSposi.jpg": "9a2616f21fdc0621dccf75f94058e6e4",
 "assets/assets/images/Sfondo.jpg": "4e82504b1bf0f32750e406053000854a",
 "assets/assets/images/CasaSposo.jpg": "6c100058f8023dd47d3f732eaa61ec65",
