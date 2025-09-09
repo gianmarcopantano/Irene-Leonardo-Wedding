@@ -3,17 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "22a190fd385d0d436ce2bda9e8934411",
+const RESOURCES = {"flutter_bootstrap.js": "6e351afa18de52ea903f41f64d2e77cb",
 "version.json": "3d0a8b3e454aa8006e8b32fefcd8e5e3",
 "index.html": "470c4ce9a4eeb1ef31f24a6f4fffe1a1",
 "/": "470c4ce9a4eeb1ef31f24a6f4fffe1a1",
 "main.dart.js": "475d8c9756b9e64678f6f9fa8b57a235",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "7e0930329646215e01fd94c0695a046c",
+"icons/wedding.png": "d905a05e8425ade8843b24eccbecc827",
+"manifest.json": "93038eb13262e2de97208550a37ec216",
 "wedding.png": "d905a05e8425ade8843b24eccbecc827",
 "assets/AssetManifest.json": "4dfe71298196b2fd154f2e42a1ac9d30",
 "assets/NOTICES": "f53e9ed4f49f71fd7a0673643d6249d1",
