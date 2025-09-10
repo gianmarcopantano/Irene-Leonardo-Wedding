@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "5fa5ebcf3866bfe0b20d6e47c9ce1acd",
+const RESOURCES = {"flutter_bootstrap.js": "fc383f354fcc5eb412e57205cbb8ab9d",
 "version.json": "3d0a8b3e454aa8006e8b32fefcd8e5e3",
 "index.html": "470c4ce9a4eeb1ef31f24a6f4fffe1a1",
 "/": "470c4ce9a4eeb1ef31f24a6f4fffe1a1",
-"main.dart.js": "bd331b6c63135b5ab83769e55b9c6013",
+"main.dart.js": "90ac37c3be8fe7ef049d4c3abf1fb3f2",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
 "icons/wedding.png": "d905a05e8425ade8843b24eccbecc827",
 "manifest.json": "93038eb13262e2de97208550a37ec216",
