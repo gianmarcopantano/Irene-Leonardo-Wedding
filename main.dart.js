@@ -25430,7 +25430,7 @@ break
 case 4:s=A.aAL()?6:8
 break
 case 6:s=9
-return A.T(A.nE(A.eN("https://maps.apple.com/directions?destination=Chiesa+di+Santa+Maria+Maggiore%2C+Piazza+Santa+Maria+Maggiore+03011+Alatri+FR+Italia&source=44.11065714465715%2C9.828972645945116&mode=driving",0,null),B.e6),$async$Gw)
+return A.T(A.nE(A.eN("https://maps.apple.com/directions?destination=41.7261646%2C+13.3423418&mode=driving",0,null),B.e6),$async$Gw)
 case 9:s=7
 break
 case 8:s=10
@@ -25448,7 +25448,7 @@ break
 case 4:s=A.aAL()?6:8
 break
 case 6:s=9
-return A.T(A.nE(A.eN("https://maps.apple.com/directions?destination=Via+Castello+2%2C+Via+Castello+2+03010+Piglio+FR+Italia&mode=driving",0,null),B.e6),$async$Gx)
+return A.T(A.nE(A.eN("https://maps.apple.com/directions?destination=41.5940027%2C+13.2509474&mode=driving",0,null),B.e6),$async$Gx)
 case 9:s=7
 break
 case 8:s=10
