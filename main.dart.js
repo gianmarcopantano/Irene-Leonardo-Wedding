@@ -25448,7 +25448,7 @@ break
 case 4:s=A.aAL()?6:8
 break
 case 6:s=9
-return A.T(A.nE(A.eN("https://maps.apple.com/directions?destination=Villa+Cinelli%2C+Via+Castello+2+03010+Piglio+FR+Italia&source=44.110658042944934%2C9.828803958781101&mode=driving",0,null),B.e6),$async$Gx)
+return A.T(A.nE(A.eN("https://maps.apple.com/directions?destination=Via+Castello+2%2C+Via+Castello+2+03010+Piglio+FR+Italia&mode=driving",0,null),B.e6),$async$Gx)
 case 9:s=7
 break
 case 8:s=10
