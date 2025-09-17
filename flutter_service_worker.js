@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "32f1cb4ff09dc5142b2ca2967ba64332",
+const RESOURCES = {"flutter_bootstrap.js": "93f67f7445e0eaba186e0130ca4bda83",
 "version.json": "3d0a8b3e454aa8006e8b32fefcd8e5e3",
 "index.html": "470c4ce9a4eeb1ef31f24a6f4fffe1a1",
 "/": "470c4ce9a4eeb1ef31f24a6f4fffe1a1",
-"main.dart.js": "09a5d634abdfff8764014e2305315883",
+"main.dart.js": "9096f543c78499286e28d7533e893e58",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
 "icons/wedding.png": "d905a05e8425ade8843b24eccbecc827",
 "manifest.json": "93038eb13262e2de97208550a37ec216",
@@ -22,7 +22,7 @@ const RESOURCES = {"flutter_bootstrap.js": "32f1cb4ff09dc5142b2ca2967ba64332",
 "assets/packages/font_awesome_flutter/lib/fonts/Font%2520Awesome%25207%2520Brands-Regular-400.otf": "00f63634abc6bb4e0a8ad6fc1fccf332",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "e52d7b7eb303cd010f6b636cbb8b03cd",
-"assets/fonts/MaterialIcons-Regular.otf": "b3de0386bf8ab956356514ce6abbe6f0",
+"assets/fonts/MaterialIcons-Regular.otf": "b74767892c04d814081fdf01b24d8eb9",
 "assets/assets/images/CasaSposo.jpg": "948af919adb328ca4dab6ceb4ba30006",
 "assets/assets/images/FotoChiesa.jpg": "9607c4cadd8b3afba358ddaacbe9e2ef",
 "assets/assets/images/LocationRistorante.jpg": "74140c266eaf08cc7ee0171219fd9f47",
