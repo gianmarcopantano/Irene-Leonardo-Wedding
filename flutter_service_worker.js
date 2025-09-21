@@ -3,17 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "93f67f7445e0eaba186e0130ca4bda83",
+const RESOURCES = {"flutter_bootstrap.js": "2571891653fa3f4dde20a31d1d4ee325",
 "version.json": "3d0a8b3e454aa8006e8b32fefcd8e5e3",
 "index.html": "470c4ce9a4eeb1ef31f24a6f4fffe1a1",
 "/": "470c4ce9a4eeb1ef31f24a6f4fffe1a1",
-"main.dart.js": "9096f543c78499286e28d7533e893e58",
+"main.dart.js": "06b54e6c5e4b3aaf986bf01a25358d03",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
 "icons/wedding.png": "d905a05e8425ade8843b24eccbecc827",
 "manifest.json": "93038eb13262e2de97208550a37ec216",
 "wedding.png": "d905a05e8425ade8843b24eccbecc827",
 "assets/AssetManifest.json": "b63892a8a205d6143a82920fe224a3f7",
-"assets/NOTICES": "f53e9ed4f49f71fd7a0673643d6249d1",
+"assets/NOTICES": "42befa41df5cb2ff1bb9399c8fc6fd63",
 "assets/FontManifest.json": "97c2528ecc2fbf4093965257fdba1854",
 "assets/AssetManifest.bin.json": "26d36f7bf8f92012318a3ba3bce0e4f8",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
