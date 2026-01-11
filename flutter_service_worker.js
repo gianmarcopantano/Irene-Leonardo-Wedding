@@ -32,11 +32,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "43ea13b109c195f32cd32c908882740e
 "canvaskit/skwasm_heavy.js.symbols": "0755b4fb399918388d71b59ad390b055",
 "canvaskit/skwasm_heavy.wasm": "b0be7910760d205ea4e011458df6ee01",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "67f226c948783d73b2791c513a703c8d",
+"flutter_bootstrap.js": "a427f8e61976c1cae9c0dfc0fa3bc2ce",
 "icons/wedding.png": "d905a05e8425ade8843b24eccbecc827",
 "index.html": "265cd2c06e34d6d06e6fde292252a476",
 "/": "265cd2c06e34d6d06e6fde292252a476",
-"main.dart.js": "59dcb691cdb9f49e9924c0f61ceb4435",
+"main.dart.js": "1be39e0fbfcacbd4f3dab9ccbac7f553",
 "manifest.json": "63d882f6645a89243c5bb4f25ff09a62",
 "version.json": "3d0a8b3e454aa8006e8b32fefcd8e5e3",
 "wedding.png": "d905a05e8425ade8843b24eccbecc827"};
