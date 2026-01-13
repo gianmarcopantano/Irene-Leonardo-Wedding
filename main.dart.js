@@ -87828,7 +87828,7 @@ return A.a21(new A.fE(B.Jm,A.a77(new A.as2(this.a)),null),null,new A.c6(s,B.t))}
 $S:65}
 A.as2.prototype={
 $2(a,b){var s=null,r=t.p
-return A.ag0(A.hx(B.bw,A.b([new A.cp(B.Na,A.eh(A.b([A.cg("Grazie per essere qui!",s,s,s,A.o7().$2$color$fontSize(B.bo,28),B.cE,s),B.ke,A.ayh(A.dZ(12),new A.Io(1.7777777777777777,A.a64("assets/images/copertina.jpg",B.oq,s,s),s)),B.ke,A.cg("Prima di iniziare, ci teniamo a condividere alcune informazioni importanti.\nQuando vi recherete al ristorante sarete accolti da Elisa che provveder\xe0 a creare personalmente la bomboniera pensata su misura per voi.",s,s,s,A.hM().$0(),B.cE,s),B.HE,A.Kn(!1,B.aa9,s,s,s,s,s,s,new A.as0(this.a,a),s,s)],r),B.S,s,B.a0,B.bt),s),A.An(s,A.a6_(s,s,B.qi,s,s,new A.as1(a),s,A.a61(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.kZ,s,s,s),s),s,s,s,8,8,s)],r),B.F,B.bD),s)},
+return A.ag0(A.hx(B.bw,A.b([new A.cp(B.Na,A.eh(A.b([A.cg("Grazie per essere qui!",s,s,s,A.o7().$2$color$fontSize(B.bo,28),B.cE,s),B.ke,A.ayh(A.dZ(12),new A.Io(1.7777777777777777,A.a64("assets/images/copertina.jpg",B.oq,s,s),s)),B.ke,A.cg("Prima di iniziare, ci teniamo a condividere alcune informazioni importanti.\nQuando vi recherete al ristorante sarete accolti da Elisa che provveder\xe0 a creare personalmente la bomboniera pensata su misura per voi.",s,s,s,A.hM().$0(),B.cE,s),B.HE,A.Kn(!1,B.aa9,s,s,s,s,s,s,new A.as0(this.a,a),s,s)],r),B.S,s,B.a0,B.bt),s),A.An(s,A.a6_(s,s,B.qi,s,s,new A.as1(a),s,A.a61(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.kZ,s,s,s),s),s,s,s,0,0,s)],r),B.F,B.bD),s)},
 $S:533}
 A.as0.prototype={
 $0(){var s=this.a
@@ -87896,7 +87896,7 @@ $0(){A.atX(new A.arl(this.a),this.b,t.z)},
 $S:0}
 A.arl.prototype={
 $1(a){var s=null,r=A.dZ(16),q=this.a,p=t.p
-return A.a21(A.hx(B.bw,A.b([new A.cp(B.px,A.ag0(A.eh(A.b([A.ly(B.I6,new A.are(q,a),s),A.ly(B.I7,new A.arf(q,a),s),A.ly(B.I4,new A.arg(q,a),s),A.ly(B.I5,new A.arh(q,a),s),A.ly(B.I3,new A.ari(q,a),s),A.ly(B.nJ,new A.arj(q,a),s)],p),B.e1,s,B.a0,B.bt),s),s),A.An(s,A.a6_(s,s,B.qi,s,s,new A.ark(a),s,s,"Chiudi"),s,s,s,8,8,s)],p),B.F,B.bD),s,new A.c6(r,B.t))},
+return A.a21(A.hx(B.bw,A.b([new A.cp(B.px,A.ag0(A.eh(A.b([A.ly(B.I6,new A.are(q,a),s),A.ly(B.I7,new A.arf(q,a),s),A.ly(B.I4,new A.arg(q,a),s),A.ly(B.I5,new A.arh(q,a),s),A.ly(B.I3,new A.ari(q,a),s),A.ly(B.nJ,new A.arj(q,a),s)],p),B.e1,s,B.a0,B.bt),s),s),A.An(s,A.a6_(s,s,B.qi,s,s,new A.ark(a),s,s,"Chiudi"),s,s,s,0,0,s)],p),B.F,B.bD),s,new A.c6(r,B.t))},
 $S:65}
 A.are.prototype={
 $0(){A.fh(this.b,!1).cS()
