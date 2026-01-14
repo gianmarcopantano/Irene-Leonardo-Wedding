@@ -87927,7 +87927,7 @@ L(a){var s=null
 return new A.cp(B.Ng,A.Kn(!1,B.nJ,s,s,s,s,s,s,this.d,s,A.auV(s,s,this.c,s,s,s,s,s,s,B.k,s,s,B.N0,s,new A.c6(A.dZ(14),B.t),s,s,s,s,s)),s)}}
 A.ST.prototype={
 L(a){var s=null,r=t.p
-return A.hx(B.bw,A.b([A.d4(new A.Jp(new A.t9(A.aH(64,B.n.D()>>>16&255,B.n.D()>>>8&255,B.n.D()&255),B.J2,s,B.KQ),A.a64("assets/images/copertina.jpg",B.oq,s,s),s),520,1/0),A.d4(A.iw(A.eA(s,A.eh(A.b([A.cg("Irene e Leonardo",s,s,s,A.o7().$4$color$fontSize$fontWeight$height(B.k,56,B.fu,1.1),B.cE,s),B.kg,A.cg("06.06.2026",s,s,s,A.hM().$3$color$fontSize$letterSpacing(B.k,22,2),s,s),B.a4P,A.cg("Ha inizio la nostra avventura senza fine, e siamo felici di condividere questo giorno unico con voi.",s,s,s,A.hM().$2$color$fontSize(B.k,16),B.cE,s),B.HE,new A.Dt(A.a1M(2026,6,6,11,0,0,0),s),B.a4T],r),B.S,s,B.fU,B.ag),B.z,s,B.on,s,s,s,s,s,B.N9,s,s,s),s,s),520,s)],r),B.F,B.bD)}}
+return A.hx(B.bw,A.b([A.d4(new A.Jp(new A.t9(A.aH(64,B.n.D()>>>16&255,B.n.D()>>>8&255,B.n.D()&255),B.J2,s,B.KQ),A.a64("assets/images/copertina.jpg",B.oq,s,s),s),520,1/0),A.d4(A.iw(A.eA(s,A.eh(A.b([A.cg("Irene e Leonardo",s,s,s,A.o7().$4$color$fontSize$fontWeight$height(B.k,56,B.fu,1.1),B.cE,s),B.kg,A.cg("06.06.2026",s,s,s,A.hM().$3$color$fontSize$letterSpacing(B.k,22,2),s,s),B.a4P,A.cg("Ha inizio la nostra avventura senza fine e siamo felici di condividere questo giorno unico con voi.",s,s,s,A.hM().$2$color$fontSize(B.k,16),B.cE,s),B.HE,new A.Dt(A.a1M(2026,6,6,11,0,0,0),s),B.a4T],r),B.S,s,B.fU,B.ag),B.z,s,B.on,s,s,s,s,s,B.N9,s,s,s),s,s),520,s)],r),B.F,B.bD)}}
 A.Dt.prototype={
 al(){return new A.Rh(B.D)}}
 A.Rh.prototype={
